@@ -16,9 +16,12 @@ Using Aspose.Barcode for Java in your project gives you the following benefits:
 
 These example projects provide helpful demonstrations and code when using Aspose.Barcode for Java.
 
+## Aspose.BarCode for Jave at a Glance
+![Aspose.BarCode Overview](http://www.aspose.com/Aspose.BarCode/Images/aspose.barcode-for-java.jpg "The Main Features of Aspose.BarCode for Java")
+
 ##Open Source Feel of Aspose.BarCode
 
-Aspose.BarCode for .NET and Aspose.BarCode for Java are successful commercial products, but our philosophy is to develop them using our unique "open-source feel" approach. In other words, we at Aspose are extremely customer driven and this shows in:
+Aspose.BarCode for .NET and Aspose.BarCode for Java are successful commercial products, but our philosophy is to develop them using our unique "*open-source feel*" approach. In other words, we at Aspose are extremely customer driven and this shows in:
 
 + Frequent releases (at least once a month).
 + Features are prioritized according to your requests.
